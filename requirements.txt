@@ -1,1 +1,2 @@
 great_expectations==0.12.0
+jupyterlab
